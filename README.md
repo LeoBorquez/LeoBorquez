@@ -1,5 +1,9 @@
 ### Hello friend 👋
 
+> I'm a software engineer based in **Santiago, Chile 🇨🇱** 
+> 
+> My focus are for the past few years has been Full-stack Development
+
 <!--
 **LeoBorquez/LeoBorquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
