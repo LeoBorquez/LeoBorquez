@@ -1,8 +1,23 @@
-### Hello friend 👋
+## Hello friend 👋
 
 > I'm a software engineer based in **Santiago, Chile 🇨🇱** 
 > 
-> My focus are for the past few years has been Full-stack Development
+> My focus over the past few years has been Full-stack development and DevOps.
+
+- 🌱 I’m currently learning **Flutter**
+- 🤔 I’m looking for help with **Ciber Security**
+- 🔭 I’m currently improving my photographic skills
+- 💬 Ask me about **Anything**
+
+
+
+### 📫 How to reach me
+
+📧 <leoborquezg@protonmail.com>
+
+🐦 [Twitter](https://www.twitter.com/debugcall) 
+
+📸 [Instagram](https://www.instagram.com/debugcall)
 
 <!--
 **LeoBorquez/LeoBorquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
