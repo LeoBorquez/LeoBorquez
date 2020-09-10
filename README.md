@@ -19,7 +19,7 @@
 
 📸 [Instagram](https://www.instagram.com/debugcall)
 
-[![HitCount](http://hits.dwyl.com/LeoBorquez/ LeoBorquez.svg)](http://hits.dwyl.com/LeoBorquez/ LeoBorquez)
+![HitCount](http://hits.dwyl.com/LeoBorquez/ LeoBorquez.svg)](http://hits.dwyl.com/LeoBorquez/ LeoBorquez)
 <!--
 **LeoBorquez/LeoBorquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
