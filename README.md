@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me
 
-📧 <leoborquezg@protonmail.com>
+📧  <leoborquezg@protonmail.com>
 
 🐦 [Twitter](https://www.twitter.com/debugcall) 
 
