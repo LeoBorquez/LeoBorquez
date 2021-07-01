@@ -1,6 +1,6 @@
 ## Hello friend 👋
 
-> I'm a software engineer based in **Santiago, Chile 🇨🇱** 
+> I'm a software engineer from Chile 🇨🇱 , based in **Plantation, Florida**
 > 
 > My focus over the past few years has been Full-stack development and DevOps.
 
